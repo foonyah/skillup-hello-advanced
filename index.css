@@ -1,0 +1,10 @@
+/***/
+/* [hello-advanced] index.css */
+@import "plugin/webfonts/google/Condiment";
+body.my {
+  margin:0;
+}
+.my #footer-container {
+  position: fixed;
+  bottom:0;
+}
